@@ -4,7 +4,7 @@ These are used in various Unity projects I have created or contributed to.
 
 If you would like to view more examples of my work, please email me at tylerdrew.work@gmail.com
 
-These projects have not been edited in any way other than removing comments for your viewing clarity.
+These projects have not been edited in any way other than removing comments and using directives for your viewing clarity.
 
 **Note**: These systems were built under tight time constraints and are messy, but they are robust solutions that met the needs of the project!
 <br/>
