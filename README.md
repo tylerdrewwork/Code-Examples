@@ -8,7 +8,11 @@ These projects have not been edited in any way other than removing comments and 
 
 **Note**: These systems were built under tight time constraints and are messy, but they are robust solutions that met the needs of the project!
 <br/>
+<br/>
 
+**These were both first used in the [AI Learns To Play Tag](https://www.youtube.com/watch?v=hCmrMOzx5VA) video.**
+
+<br/>
 ### **Systems/**
 |-- **RoomPhaseController.cs:** 
 This subsystem did a lot of heavy lifting for the room's lifecycle. It controls the logic on which state the room is in and which state it will switch to. Another condition was if the current environment was being used for training or recording.
