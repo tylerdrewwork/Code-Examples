@@ -13,7 +13,9 @@ These projects have not been edited in any way other than removing comments and 
 **These were both first used in the [AI Learns To Play Tag](https://www.youtube.com/watch?v=hCmrMOzx5VA) video.**
 
 <br/>
+
 ### **Systems/**
+
 |-- **RoomPhaseController.cs:** 
 This subsystem did a lot of heavy lifting for the room's lifecycle. It controls the logic on which state the room is in and which state it will switch to. Another condition was if the current environment was being used for training or recording.
 
